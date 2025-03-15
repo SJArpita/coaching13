@@ -1,6 +1,5 @@
+def greeting(name):
+ print("Hello, " + name)
 
-import utils
-utils.greeting("<my_name>")
-utils.goodbye()
-
-
+def goodbye():
+ print("Goodbye")
