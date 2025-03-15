@@ -1,2 +1,8 @@
-import utils
-utils.greeting("Arpita")
+
+def greeting(name):
+ print("Hello, " + name)
+
+def goodbye():
+ print("Goodbye")
+
+
